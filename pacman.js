@@ -55,6 +55,7 @@ function update() {
 
         //item.position.x += item.velocity.x;
         item.position.y += item.velocity.y;
+        //item.position.x += item.velocity.x;
 
         // Update image position
         item.newimg.style.left = item.
